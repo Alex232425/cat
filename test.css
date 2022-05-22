@@ -29,10 +29,7 @@ border:5px solid red;
 border-radius:30px;
 }
 
-.cat{
-border-radius:30px;
-border:5px solid yellow;
-}
+
 
 .shadow{
 transform:scale(1);
@@ -50,12 +47,18 @@ width:470px;
 transform:rotate(240deg)scale(0.5);
 }
 
+
 .centerr{
-  text-aligh:center;
+margin-left:300px;
+border:1px solid black;
+
 }
 
 
-
+.go{
+margin-left:200px;
+margin-bottom:30px;
+}
 
 
 
