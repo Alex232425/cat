@@ -1,0 +1,61 @@
+div{
+color:yellow;
+background-color:black;
+font-size:18px;
+padding:10px;
+border:5px solid red;
+}
+
+p{
+background-color:#19a15f;
+padding:10px;
+border:5px solid black;
+border-radius:30px;
+box-shadow:10px 10px 17px yellow;
+}
+
+
+
+
+.lion:hover{
+border:10px solid#323232;
+}
+
+.batman{
+color:#ffffff;
+background-color:black;
+padding:10px;
+border:5px solid red;
+border-radius:30px;
+}
+
+.cat{
+border-radius:30px;
+border:5px solid yellow;
+}
+
+.shadow{
+transform:scale(1);
+transition:5s all;
+box-shadow:10px 10px 17px yellow;
+background-color:yellow;
+color:black;
+border:5px solid green;
+border-radius:30px;
+padding:8px;
+width:470px;
+}
+
+.shadow:hover{
+transform:rotate(240deg)scale(0.5);
+}
+
+.centerr{
+  text-aligh:center;
+}
+
+
+
+
+
+
